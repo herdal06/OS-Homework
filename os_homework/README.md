@@ -1,7 +1,7 @@
 # İşletim Sistemleri Dersi Proje Ödevi
 
 
-## 2.) Ödevdeki Dizinlerin Listesi
+## 1.) Ödevdeki Dizinlerin Listesi
 
 >- shell.c -> Kaynak Dosyaları.
 >- shell.h -> Fonksiyon başlıklarının bulunduğu dosya.
@@ -10,17 +10,17 @@
 >- makefile -> Projeyi derlemek ve çalıştıracak hale getirmek için tanımlanmıştır.
 >- README.md -> Proje hakkında açıklamalar.
 
-## 3.) Programı Derlemek İçin
+## 2.) Programı Derlemek İçin
 > terminale **make** komutunu yazarak proje derlenir.   
-## 4.) Programı Çalıştırmak İçin
+## 3.) Programı Çalıştırmak İçin
 > terminale **./shell**  yazarak proje çalıştırılır.
-## 5.) Geliştirme sırasında karşılaştığımız zorluklar
+## 4.) Geliştirme sırasında karşılaştığımız zorluklar
 > Yavru process'lerin pid'sini yazdırmak.
 
 > Gelen komutları parse etmek.
 
 > 
-## 6.) Programı yazmamıza yardımcı olması için kullandığımız kaynaklar 
+## 5.) Programı yazmamıza yardımcı olması için kullandığımız kaynaklar 
 >Linux komutları -> The Linux Command Line: A Complete Introduction
 
 >fork -> https://www.geeksforgeeks.org/fork-system-call/
